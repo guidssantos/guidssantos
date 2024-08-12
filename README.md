@@ -1,4 +1,4 @@
-## Oi! Eu sou o Guilherme dos Santos, Desenvolvedor Full-stack!
+## Oi! Eu sou o Guilherme dos Santos, Site Reliability Engineering!
 <div align="center">
   <div> Conheça meu portfolio pelo meu <a href="https://portfolio-guilherme-santos.vercel.app/" target="_blank"> website! </a></div>
   </br>
